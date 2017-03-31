@@ -1,6 +1,6 @@
 // Author: Aaron Nguyen 301254559 
 // Date: March 30 2017 
-// Bankers Algorithm
+// Memory Allocation
 
 This specific source code written in C++ is complied in Visual Studios 2015 in windows 10.
 
