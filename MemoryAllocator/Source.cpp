@@ -4,6 +4,10 @@
 #include <limits>
 #include <assert.h>
 
+// Author: Aaron Nguyen 301254559 
+// Date: March 30 2017 
+// Memory Allocation
+
 template<class T>
 class TrackAllocatedMemory
 {
