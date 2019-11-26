@@ -10,7 +10,7 @@ Some assumptions for the source code
 
 Limitations of memory allocator
 
-1) The memory leak detection is very limited, we will indicate to users if there is a memory leak
+1) Memory leak detection is limited. We will indicate to users if a memory leak occurs
 2) The purposed template is built around vectors as vectors have the ability to deal with an allocation object
    std::vector / template < class T, class Alloc = allocator<T> > class vector; // generic template
    SOURCE: http://www.cplusplus.com/reference/vector/vector/
