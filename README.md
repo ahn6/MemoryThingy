@@ -5,7 +5,7 @@
 This specific source code written in C++ is compiled in Visual Studios 2015 in Windows 10.
 
 Some assumptions for the source code
-1) Through the allocator, we can track the number of allocations and decide if there is a memory leak based on the number of deallocation & allocation
+1) Through the allocator, we can track the number of allocations and decide if there is a memory leak based on the number of deallocations and allocations
 2) Tests will be run one at a time
 
 Limitations of memory allocator
