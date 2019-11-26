@@ -2,7 +2,7 @@
 // Date: March 30 2017 
 // Memory Allocation
 
-This specific source code written in C++ is compiled in Visual Studios 2015 in windows 10.
+This specific source code written in C++ is compiled in Visual Studios 2015 in Windows 10.
 
 Some assumptions for the source code
 1) We will assume that through the allocator, we can track the number of allocations and decide if there is a memory leak based on the number of deallocation & allocation
